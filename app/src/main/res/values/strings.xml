@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Palette</string>
+    <string name="light_vibrant_title">Light Vibrant Title</string>
+    <string name="light_vibrant_body">Light Vibrant Body</string>
+    <string name="vibrant_title">Vibrant Title</string>
+    <string name="vibrant_body">Vibrant Body</string>
+    <string name="dark_vibrant_title">Dark Vibrant Title</string>
+    <string name="dark_vibrant_body">Dark Vibrant Body</string>
+    <string name="light_muted_title">Light Muted Title</string>
+    <string name="light_muted_body">Light Muted Body</string>
+    <string name="muted_title">Muted Title</string>
+    <string name="muted_body">Muted Body</string>
+    <string name="dark_muted_title">Dark Muted Title</string>
+    <string name="dark_muted_body">Dark Muted Body</string>
+    <string name="not_generated">"Swatch isn't generated"</string>
+</resources>
